@@ -13,7 +13,7 @@ Essa é ma API Rest mockada, utilizando json-server e JWT.
 $ npm install
 $ npm run start-auth
 ```
-## 🛠️ Como se registrar?
+#### 🛠️ Como se registrar?
 
 Você pode fazer isso efetuando uma requisição post para:
 
